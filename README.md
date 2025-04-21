@@ -1,1 +1,1 @@
-# data-analysis-on-netflix-movies-and-tv-shows
+This is a data analysis using dataset of kaggle on netflix shows and tv.I have done the manipulation of data using python in which panda library is used.top# data-analysis-on-netflix-movies-and-tv-shows
